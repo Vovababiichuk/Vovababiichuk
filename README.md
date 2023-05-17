@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 {{FullStack (Node+React) Developer}}
 ========================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=3000&width=1000&height=100&lines=%F0%9F%94%A5+Code+Master+turns+your+ideas+into+reality+for+your+business!+%F0%9F%94%A5;%F0%9F%94%A5+Crafting+the+Future+through+Coding!+%F0%9F%94%A5;%F0%9F%94%A5+Turning+Dreams+into+Functional+Applications!+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=4000&width=1000&height=100&lines=%F0%9F%91%8B+Hi+There!;%F0%9F%94%A5+Code+Master+turns+your+business+ideas+into+reality!+%F0%9F%94%A5;%F0%9F%94%A5+Crafting+the+Future+through+Coding!+%F0%9F%94%A5;%F0%9F%94%A5+Turning+Dreams+into+Functional+Applications!+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
