@@ -9,7 +9,7 @@ I AM A CREATIVE FULL-STACK DEVELOPER WHO DOES HIS JOB QUICKLY AND EFFICIENTLY!!!
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 🚀  I'm currently working on [Resume - html practice](http://resume-first-pet-project.herokuapp.com/)
-* 🧠  I'm learning Handlebars
+* 🧠  I'm learning Handlebars, Java script
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
@@ -38,9 +38,3 @@ I AM A CREATIVE FULL-STACK DEVELOPER WHO DOES HIS JOB QUICKLY AND EFFICIENTLY!!!
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Vovababiichuk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-babiichuk-b42822243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Vovababiichuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vovababiichuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
