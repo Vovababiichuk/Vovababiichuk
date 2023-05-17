@@ -1,3 +1,9 @@
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vovababiichuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vovababiichuk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vovababiichuk&show_icons=true&theme=radical)
+
 
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"> -->
@@ -8,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 {{FullStack (Node+React) Developer}}
 ========================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=4000&width=1000&height=100&lines=%F0%9F%91%8B+Hi+There!;%F0%9F%94%A5+Code+Master+turns+your+business+ideas+into+reality!+%F0%9F%94%A5;%F0%9F%94%A5+Crafting+the+Future+through+Coding!+%F0%9F%94%A5;%F0%9F%94%A5+Turning+Dreams+into+Functional+Applications!+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=3000&width=1000&height=100&lines=%F0%9F%91%8B+Hi+There!;%F0%9F%94%A5+Code+Master+turns+your+business+ideas+into+reality!+%F0%9F%94%A5;%F0%9F%94%A5+Crafting+the+Future+through+Coding!+%F0%9F%94%A5;%F0%9F%94%A5+Turning+Dreams+into+Functional+Applications!+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
