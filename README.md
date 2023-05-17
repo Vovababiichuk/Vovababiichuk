@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 🚀  I'm currently working on [Resume - html practice](http://resume-first-pet-project.herokuapp.com/)
-* 🧠  I'm learning Handlebars, Java script
+<!-- * 🧠 -->
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
