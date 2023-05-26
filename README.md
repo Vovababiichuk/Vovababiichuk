@@ -19,6 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 🚀  I'm currently working on [(React-pizza-TypeScript-ReduxToolkit-ReactRouter-AxiosFetch...)](https://github.com/Vovababiichuk/React-pizza-TypeScript-ReduxToolkit-ReactRouter-AxiosFetch...)
+* * 🚀  I'm currently working on [(https://github.com/Vovababiichuk/NFT-Landing---Scss-JS-Gulp)](https://github.com/Vovababiichuk/NFT-Landing---Scss-JS-Gulp)
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
