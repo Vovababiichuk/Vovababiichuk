@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=3000&width=1000&height=100&lines=%F0%9F%91%8B+Hi+There!;%F0%9F%94%A5+Code+Master+turns+your+business+ideas+into+reality!+%F0%9F%94%A5;%F0%9F%94%A5+Crafting+the+Future+through+Coding!+%F0%9F%94%A5;%F0%9F%94%A5+Turning+Dreams+into+Functional+Applications!+%F0%9F%94%A5)](https://git.io/typing-svg)
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
-* 🚀  I'm currently working on [(React-TypeScript-pizza)](https://github.com/Vovababiichuk/React-TypeScript-pizza)
+* 🚀  I'm currently working on [(Next.js-Discord-Clone-Tailwind-ShadcnUI)](https://github.com/Vovababiichuk/Next.js-Discord-Clone-Tailwind-ShadcnUI)
 * 🚀  I'm currently working on [(React-Node.js-MySQL-NextUI-CRUD)](https://github.com/Vovababiichuk/React-Node.js-MySQL-NextUI-CRUD)
 * 🚀  I'm currently working on [(react-tik-tak-toe-online)](https://github.com/Vovababiichuk/react-tik-tak-toe-online)
 * 🤝  I'm open to collaborating on any project
