@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 🚀  I'm currently working on [(Next.js-Discord-Clone-Tailwind-ShadcnUI)](https://github.com/Vovababiichuk/Next.js-Discord-Clone-Tailwind-ShadcnUI)
-* 🚀  I'm currently working on [(React-Node.js-MySQL-NextUI-CRUD)](https://github.com/Vovababiichuk/React-Node.js-MySQL-NextUI-CRUD)
+* 🚀  I'm currently working on [(React-Django-To-Do-App-Tailwind)](https://github.com/Vovababiichuk/React-Django-To-Do-App-Tailwind)
 * 🚀  I'm currently working on [(react-tik-tak-toe-online)](https://github.com/Vovababiichuk/react-tik-tak-toe-online)
 * 🤝  I'm open to collaborating on any project
 
