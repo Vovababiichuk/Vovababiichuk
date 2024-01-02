@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 {{FullStack (Node+React) Developer}}
 ========================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=3000&width=1000&height=100&lines=%F0%9F%91%8B+Hi+There!;%F0%9F%94%A5+Code+Master+turns+your+business+ideas+into+reality!+%F0%9F%94%A5;%F0%9F%94%A5+Crafting+the+Future+through+Coding!+%F0%9F%94%A5;%F0%9F%94%A5+Turning+Dreams+into+Functional+Applications!+%F0%9F%94%A5)](https://git.io/typing-svg)
-* 🖥️  See my portfolio at [About My](http://volodymyr-about-me.mypressonline.com/)
+* 🖥️  See my portfolio at [About My](https://cute-kitten-8c893b.netlify.app/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 🚀  I'm currently working on [(Next-Portfolio-Neon-Tailwind)](https://github.com/Vovababiichuk/Next-Portfolio-Neon-Tailwind)
 * 🤝  I'm open to collaborating on any project
