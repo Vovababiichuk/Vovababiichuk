@@ -19,6 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [About My](https://volodymyrcodepro.site/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 🚀  I'm currently working on [(React-Bank-App-Final-Project-Frontend)](https://github.com/Vovababiichuk/React-Bank-App-Final-Project-Frontend)
+* 🚀  I'm currently working on [(Flutter-Films-course-app)](https://github.com/Vovababiichuk/Flutter-Films-course-app)
 * 🤝  I'm open to collaborating on any project
 
 
