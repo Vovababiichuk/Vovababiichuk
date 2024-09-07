@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my site-portfolio at [About My](https://volodymyrcodepro.site/)
 * ✉️  You can contact me at [https://t.me/volodymyrbabiichuk](mailto:https://t.me/volodymyrbabiichuk)
 * 📱  You can contact me at [+38(068) 025 3147]
-* 🚀  I'm currently working on [ONLINE-SHOP-on-REACT-REDUX-API](https://github.com/Vovababiichuk/ONLINE-SHOP-on-REACT-REDUX-API)
+* 🚀  I'm currently working on [TO-DO-Planner-REACT-NEST-MongoDB-Tailwind-TypeScript](https://github.com/Vovababiichuk/TO-DO-Planner-REACT-NEST-MongoDB-Tailwind-TypeScript)
 * 🤝  I'm open to collaborating on any project
 
 
