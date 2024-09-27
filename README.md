@@ -85,5 +85,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
-
-[![Vovababiichuk profile views](https://u8views.com/api/v1/github/profiles/125557772/views/day-week-month-total-count.svg)](https://u8views.com/github/Vovababiichuk)
